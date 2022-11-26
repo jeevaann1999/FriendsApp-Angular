@@ -20,7 +20,7 @@ const myRoute:Routes=[
   },
   {
     path:"search",
-    component:
+    component:SearchFriendComponent
   },
 ]
 
